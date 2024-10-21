@@ -1,2 +1,2 @@
 # chromatography-script
-A relatively simple python script to plan a column. Lack of a GUI led me to re-write it in JavaScript, and construct a web-page around it.
+A console-based python script to plan 'Flash Column Chromatography'. To share this more widely, I re-wrote it in JavaScript, and constructed a web-page around it.
